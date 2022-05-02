@@ -47,7 +47,7 @@ root.title("Customisable QR code generator")
 
 ``` 
 
-![Screenshot (215).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651502990254/leamxAi1c.png align="left")
+![Screenshot (215).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651502990254/leamxAi1c.png )
 
 In This root is gonna act as main window of this application
 
@@ -63,7 +63,7 @@ generate.grid(row=0,column=1,pady=10)
 top.grid(row=0,column=0)
 ``` 
 
-![Screenshot (216).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651503097262/I2CsCe9Lo.png align="left")
+![Screenshot (216).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651503097262/I2CsCe9Lo.png)
 
 top is gonna be first frame in this application .
 content is where user gonna type the input which is in the top frame.
@@ -86,7 +86,7 @@ save_=Button(bottom,text="Save",command=save_qrcode)
 save_.grid(row=1,column=2,pady=20)
 ``` 
 
-![Screenshot (217).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651503323673/TW1NurLHQ.png align="left")
+![Screenshot (217).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651503323673/TW1NurLHQ.png )
 
 bottom is gonna be second frame in this application 
 img gonna open a sample qr code we have 
@@ -162,7 +162,7 @@ parameter is used to check whether to change foreground color or background colo
 
 It will open filedialog box to ask filename to be saved as , then it will show the succesfully saved message
 
-![Screenshot (217).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651504427791/H3BF5H9Vv.png align="left")
+![Screenshot (217).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651504427791/H3BF5H9Vv.png )
 
 
 # Final code
@@ -261,5 +261,5 @@ root.mainloop()
 ``` 
 
 
-![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1651504668297/4KmwsdW2Q.png align="left")
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1651504668297/4KmwsdW2Q.png )
 
