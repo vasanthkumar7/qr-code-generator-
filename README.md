@@ -261,5 +261,5 @@ root.mainloop()
 ``` 
 
 
-![Screenshot (215).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651504668297/4KmwsdW2Q.png align="left")
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1651504668297/4KmwsdW2Q.png align="left")
 
